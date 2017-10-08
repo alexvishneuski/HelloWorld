@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/IstiN/android-training-2017.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alexvishneuski/SimpleAndroidCalculator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\android\Epam" />
+    <option name="cloneParentDir" value="D:\android\Epam\" />
   </component>
 </application>
