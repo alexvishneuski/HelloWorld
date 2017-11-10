@@ -62,8 +62,12 @@
           <option name="url" value="https://github.com/nethergrim/vk_client.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alexvishneuski/VKLayouts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\android\Epam\vk-clients" />
+    <option name="cloneParentDir" value="D:\android\Epam\MyVk" />
   </component>
 </application>
