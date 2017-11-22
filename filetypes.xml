@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="font" type="JavaFX" />
+      <mapping pattern="font_t" type="XML" />
+    </extensionMap>
+  </component>
+</application>
