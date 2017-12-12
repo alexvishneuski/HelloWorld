@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="font" type="JavaFX" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="font_t" type="XML" />
     </extensionMap>
   </component>
