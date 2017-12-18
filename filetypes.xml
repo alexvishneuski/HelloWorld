@@ -4,6 +4,7 @@
       <mapping pattern="font" type="JavaFX" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="font_t" type="XML" />
+      <mapping pattern="selector" type="XML" />
     </extensionMap>
   </component>
 </application>
