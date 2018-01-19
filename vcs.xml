@@ -86,8 +86,12 @@
           <option name="url" value="https://github.com/syndarin/SocNetApi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pavelkv96/TestVK.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\android\Epam\getting-vk-tocken" />
+    <option name="cloneParentDir" value="D:\android\Epam\training-members\pavel96" />
   </component>
 </application>
